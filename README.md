@@ -2,10 +2,18 @@
 
 
 Javascript,
+
 HTML,
+
 CSS,
+
 jQuery,
+
 AJAX,
+
+REST API,
+
+JSON
 
 
 
