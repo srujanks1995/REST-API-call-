@@ -1,2 +1,2 @@
 # REST-API-call
-![](images/API.JPG)
+![](images/API.PNG)
