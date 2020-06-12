@@ -1,11 +1,11 @@
 # Weather Application
 
 
-Javascript
-HTML
-CSS
-jQuery
-AJAX
+Javascript,
+HTML,
+CSS,
+jQuery,
+AJAX,
 
 
 
