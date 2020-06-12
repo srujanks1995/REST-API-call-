@@ -129,6 +129,6 @@ function setFormDisabledProps(statusToSet) {
 // existing search results, if there are any
 
 function setNotFoundMessages() {
-  $("#search-results-heading").text("No recipes found, please change search criteria.");
+  $("#search-results-heading").text("please change search criteria.");
   $("#results").text("");
 }
